@@ -1,0 +1,1 @@
+number of pairs transfered between mapper and reducer in StepTwo is: 21864182(1294151824 Bytes)

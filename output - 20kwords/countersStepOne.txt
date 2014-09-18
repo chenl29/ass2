@@ -1,0 +1,1 @@
+number of pairs transfered between mapper and reducer in StepOne is: 5286

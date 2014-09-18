@@ -1,0 +1,1 @@
+number of pairs transfered between mapper and reducer in StepFour is: 1830340(125157068 Bytes)
